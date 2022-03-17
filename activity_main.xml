@@ -19,11 +19,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Merry Christmas!"
-
         android:fontFamily="sans-serif-light"
         android:textColor="#FF1493"
         android:textStyle="bold"
-
         android:layout_centerVertical="true"
         android:layout_centerInParent="true"
         android:layout_alignParentTop="true"
@@ -35,7 +33,6 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="And"
-
         android:textColor="#FF1493"
         android:textStyle="bold"
         android:layout_below="@id/merry"
@@ -44,20 +41,17 @@
         android:textSize="24sp"
         />
 
-
     <TextView
         android:id="@+id/text"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Happy New Year!!!"
-
         android:fontFamily="sans-serif-light"
         android:textColor="#FF1493"
         android:textStyle="bold"
         android:layout_below="@id/and"
         android:layout_centerVertical="true"
         android:layout_centerInParent="true"
-
         android:textSize="30sp"
         />
 
@@ -67,7 +61,6 @@
         android:layout_height="wrap_content"
         android:text="Christmas isn't a season.It's a feeling.
         May your present be many and your troubles be few."
-
         android:textColor="@color/white"
         android:textStyle="bold"
         android:layout_below="@id/text"
@@ -80,11 +73,9 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="From, Abhishek"
-
         android:fontFamily="android italic"
         android:textColor="#FF1493"
         android:textStyle="bold"
-
         android:layout_margin="5dp"
         android:layout_alignParentBottom="true"
         android:layout_alignParentRight="true"
